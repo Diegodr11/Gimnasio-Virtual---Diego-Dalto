@@ -1,3 +1,4 @@
+
 -- Creación de la base de datos
 CREATE DATABASE gimnasio_virtual;
 
